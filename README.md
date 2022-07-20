@@ -7,5 +7,5 @@ In this Cafe Management System Java Project design with Net-Beans IDE Using Java
 This system will save time and it will be easy to use when compared to manual work that was done on paper. Cafe Management system reduces manual work and improves efficiency and rate of work. It is specifically designed for cafe billing management and order-taking management system. 
 
 <h2 align="center">
-   <img src="Photos/manage.StudentsPNG.png"/>
+   <img src="interface/cafe management.png"/>
 </h2>
