@@ -8,7 +8,7 @@ This system will save time and it will be easy to use when compared to manual wo
 
 ### Login
 <h2 align="center">
-   <img src="interface/login.png"/>
+   <img src="interface/login.PNG"/>
 </h2>
 
 ### Dashboard
